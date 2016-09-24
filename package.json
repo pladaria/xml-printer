@@ -1,0 +1,14 @@
+{
+  "name": "xml-printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "publishConfig": {
+    "repository": "https://registry.npmjs.org"
+  },
+  "license": "MIT"
+}
