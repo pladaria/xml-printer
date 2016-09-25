@@ -84,7 +84,7 @@ This module exports some utility functions which can be useful if you want to es
 ### escapeXmlText(text: string) => string
 
 ```javascript
-import {escapeXmlText} from `xml-printer`;
+import {escapeXmlText} from 'xml-printer';
 
 console.log(escapeXmlText('escape <this>'));
 // <![CDATA[escape <this>]]>
@@ -93,7 +93,7 @@ console.log(escapeXmlText('escape <this>'));
 ### escapeXmlAttribute(text: string) => string
 
 ```javascript
-import {escapeXmlAttribute} from `xml-printer`;
+import {escapeXmlAttribute} from 'xml-printer';
 
 console.log(escapeXmlAttribute('escape <this>'));
 // escape &quot;this&quot;
