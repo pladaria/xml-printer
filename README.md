@@ -72,10 +72,10 @@ console.log(xmlPrint(ast, {quote: "'"}));
 
 ### Available options
 
-- `escapeAttributes`: boolean (default: true) Escapes attributes.
-- `escapeText`: boolean (default: true) Escapes text.
-- `selfClose`: boolean (default: true) Self-close empty elements.
-- `quote`: string (default: '"') Quote character, usually `"` or `'`.
+- `escapeAttributes`: *boolean* (default: `true`) Escapes attributes.
+- `escapeText`: *boolean* (default: `true`) Escapes text.
+- `selfClose`: *boolean* (default: `true`) Self-close empty elements.
+- `quote`: *string* (default: `"`) Quote character, usually `"` or `'`.
 
 ## Utilities
 
