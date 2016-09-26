@@ -1,0 +1,7 @@
+test
+.travis
+.gitignore
+.eslintrc
+.babelrc
+.coverage
+.nyc_output
