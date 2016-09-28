@@ -48,7 +48,7 @@
     "xml-reader": "^2.4.2"
   },
   "publishConfig": {
-    "repository": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
